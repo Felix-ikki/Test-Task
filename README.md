@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to my job interview test app 👋
 
 App created for job interview 
 
